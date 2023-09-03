@@ -1,5 +1,6 @@
 ## COMP 3111 Lab 1 Exercise
-<hr>
+
+![](F:\Icey\IdeaProjects\Comp3111LEx\screenshot.png)
 
 ### What is done:
 - Set up JAVA developing environment(IntelliJ IDEA, JDX-17)
